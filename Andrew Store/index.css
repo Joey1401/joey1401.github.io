@@ -108,7 +108,7 @@ button {
 .img {
     background-image: url('Img/hero-img.jpg');
     width: 100%;
-    height: 45vh;
+    height: 35vh;
     background-position: center;
     background-size: cover;
 }
